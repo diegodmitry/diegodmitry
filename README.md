@@ -10,7 +10,9 @@ If you're wondering whether or not to chat me, don't think, do it, I'm here to t
 * 🎮 I like playing video games and playing on computer as well. My favorite computer game is World of Warcraft, but on the video game I have some favorite gamees, like: PES or FIFA, Gran Turism, The Witcher and Metal Gear Solid. 
 * 🌱 Currently I live coding, I'm very focused on learning more and more about the backend.
 * When it comes to Front-end I enjoy using React, I like to think about how to do the logic, reuse components and keep the code organized.
-* 📫 How to reach me: diegodmitry@hotmail.com | ![asdf]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+* 📫 How to reach me: diegodmitry@hotmail.com | ![asdf]({})
+
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 
 <br />
