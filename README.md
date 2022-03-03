@@ -14,11 +14,11 @@ If you're wondering whether or not to chat me, don't think, do it, I'm here to t
 
 <a href="www.linkedin.com/in/diegodmitry">Link</a>
 
-<a href="https://www.linkedin.com/in/diegodmitry" rel="nofollow">link text</a>
+<a href="https://www.linkedin.com/in/diegodmitry" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [GitHub Pages](https://www.linkedin.com/in/diegodmitry)
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 ![image]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
 ![image]({BadgeURLHere})
 
