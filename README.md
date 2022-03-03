@@ -11,6 +11,7 @@ If you're wondering whether or not to chat me, don't think, do it, I'm here to t
 * 🌱 Currently I live coding, I'm very focused on learning more and more about the backend.
 * When it comes to Front-end I enjoy using React, I like to think about how to do the logic, reuse components and keep the code organized.
 * 📫 How to reach me: <a href="mailto:diegodmitry@hotmail.com">email</a> | LINKEDIN |
+* [Email me](mailto:diegodmitry@hotmail.com?subject=[GitHub])
 
 
 <br />
