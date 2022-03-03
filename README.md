@@ -13,6 +13,8 @@ If you're wondering whether or not to chat me, don't think, do it, I'm here to t
 * 📫 How to reach me: diegodmitry@hotmail.com | ![asdf]({})
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+![image]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
+![image]({BadgeURLHere})
 
 
 <br />
