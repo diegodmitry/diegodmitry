@@ -12,12 +12,10 @@ If you're wondering whether or not to chat me, don't think, do it, I'm here to t
 * When it comes to Front-end I enjoy using React, I like to think about how to do the logic, reuse components and keep the code organized.
 * 📫 How to reach me: diegodmitry@hotmail.com | <a href="https://www.linkedin.com/in/diegodmitry" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+### Tecnologias e Ferramentas
+---
 
 
-
-<br />
-
-<!--
 **diegodmitry/diegodmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
