@@ -4,6 +4,7 @@ I'm Diêgo Dmitry, I'm graduated in Systems Analysis and Development, Post Gradu
 If you're wondering whether or not to chat me, don't think, do it, I'm here to teach, learn, exchange experiences, play a game and available for any Happy Hour!😎
 
 ### What I like to do?
+<br />
 
 <!--
 **diegodmitry/diegodmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
