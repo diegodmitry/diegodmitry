@@ -16,7 +16,7 @@ If you're wondering whether or not to chat me, don't think, do it, I'm here to t
 
 ### Tecnologias e Ferramentas
 ---
- [![Linkedin Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([Link perfil no LinkedIn])
+ [![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/diegodmitry])]([https://www.linkedin.com/in/diegodmitry])
 
 
 
