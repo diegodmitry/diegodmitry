@@ -20,3 +20,4 @@ If you're wondering whether or not to chat me, don't think, do it, I'm here to t
 
 ### GitHub Stats
 [![Diego Dmitry GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodmitry)](https://github.com/diegodmitry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodmitry)](https://github.com/diegodmitry/github-readme-stats)
