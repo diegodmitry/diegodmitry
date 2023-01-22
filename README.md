@@ -22,6 +22,6 @@ If you're wondering whether or not to chat me, don't think, do it, I'm here to t
 ![Diêgo D'mitry GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=diegodmitry&show_icons=true)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegodmitry&layout=compact)](https://github.com/diegodmitry/github-readme-stats)
 <a href="https://app.daily.dev/diegodmitry"><img src="https://api.daily.dev/devcards/28217408fe594972943ec610d41aed72.png?r=zak" width="400" alt="Diego Dmitry's Dev Card"/></a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/diegodmitry/diegodmitry/blob/master/devcard.svg" width="400" alt="Diego Dmitry's Dev Card"/></a>
+<a href="https://app.daily.dev/diegodmitry"><img src="https://github.com/diegodmitry/diegodmitry/blob/master/devcard.svg" width="400" alt="Diego Dmitry's Dev Card"/></a>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
