@@ -1,3 +1,4 @@
+[![Boss Bounty Badge](https://img.shields.io/endpoint.svg?url=https://api.boss.dev/badge/enabled/diegodmitry/diegodmitry)](https://www.boss.dev/issues/repo/diegodmitry/diegodmitry)
 ### Hi there 👋
 
 I'm Diêgo Dmitry, I'm graduated in Systems Analysis and Development, Post Graduate in Network Security and former military 🪖. However, I'm currently passionate about software development and I'm training myself more and more in order to become a **Full Stack Developer**. The reason for the career change is because the programming makes me overnight stay in a different way 😅. Indeed, I like to program, to think, to plan plans, to solve problems.
