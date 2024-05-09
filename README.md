@@ -1,7 +1,12 @@
 [![Boss Bounty Badge](https://img.shields.io/endpoint.svg?url=https://api.boss.dev/badge/enabled/diegodmitry/diegodmitry)](https://www.boss.dev/issues/repo/diegodmitry/diegodmitry)
 ### Hi there 👋
 
-I'm Diêgo Dmitry, I'm graduated in Systems Analysis and Development, Post Graduate in Network Security and former military 🪖. However, I'm currently passionate about software development and I'm training myself more and more in order to become a **Full Stack Developer**. The reason for the career change is because the programming makes me overnight stay in a different way 😅. Indeed, I like to program, to think, to plan plans, to solve problems.
+I'm Diego Dmitry, a graduate in Systems Analysis and Development with a postgraduate degree in Network Security, and a former military professional. 🪖. Over the years, I have transitioned into a multifaceted IT specialist, passionate not only about software development but also about improving IT infrastructures, database administrator, and systems security. My military background has instilled a disciplined work ethic and strategic thinking, which I apply across various sectors including IT administration, software development, and technical support.
+
+Currently, my focus is on leveraging my comprehensive IT skills to enhance system operability and performance, tailoring my approach to meet the dynamic needs of modern technology landscapes. I'm enthusiastic about problem-solving, strategic planning, and mentoring peers in the tech community.
+
+Whether it's discussing technology, playing a strategic game, or unwinding at a happy hour, I'm always open to learning, sharing experiences, and connecting with like-minded professionals. This is the reason why I like the IT career, it makes me spend the night in a different way 😅.
+
 If you're wondering whether or not to chat me, don't think, do it, I'm here to teach, learn, exchange experiences, play a game and available for any Happy Hour! 😎
 <br />
 
